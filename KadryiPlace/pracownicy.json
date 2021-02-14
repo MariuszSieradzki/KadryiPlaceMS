@@ -1,0 +1,183 @@
+[
+  {
+    "Imie": "Jan",
+    "Nazwisko": "Kowalski",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 15,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Pawel",
+    "Nazwisko": "Zakrzewski",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 18,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 15,
+    "DniNaZwolnieniu": 5
+  },
+  {
+    "Imie": "Albert",
+    "Nazwisko": "Kwiatkowski",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 18,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Roman",
+    "Nazwisko": "Lis",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 20,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 12,
+    "DniNaZwolnieniu": 8
+  },
+  {
+    "Imie": "Adam",
+    "Nazwisko": "Nowak",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 25,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 12,
+    "DniNaZwolnieniu": 7
+  },
+  {
+    "Imie": "Cezary",
+    "Nazwisko": "Sawicki",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 22,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Juliusz",
+    "Nazwisko": "Sikorka",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 24,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 19,
+    "DniNaZwolnieniu": 1
+  },
+  {
+    "Imie": "Marcel",
+    "Nazwisko": "Makowski",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 20,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 5,
+    "DniNaZwolnieniu": 15
+  },
+  {
+    "Imie": "Mieszko",
+    "Nazwisko": "Andrzejewski",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 19,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 0,
+    "DniNaZwolnieniu": 20
+  },
+  {
+    "Imie": "Robert",
+    "Nazwisko": "Gajewski",
+    "Stanowisko": 0,
+    "StawkaGodzinowa": 18,
+    "StawkaStala": 0,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Remigiusz",
+    "Nazwisko": "Wasilewski",
+    "Stanowisko": 1,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 13000,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Filip",
+    "Nazwisko": "Mroz",
+    "Stanowisko": 2,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 7500,
+    "DniPrzepracowane": 21,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Krzysztof",
+    "Nazwisko": "Kwiatkowski",
+    "Stanowisko": 2,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 7500,
+    "DniPrzepracowane": 21,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Jaroslaw",
+    "Nazwisko": "Jasinski",
+    "Stanowisko": 2,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 7500,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Jan",
+    "Nazwisko": "Zalewski",
+    "Stanowisko": 3,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 5000,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Fryderyk",
+    "Nazwisko": "Szczepanski",
+    "Stanowisko": 3,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 5000,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Dominik",
+    "Nazwisko": "Przybylski",
+    "Stanowisko": 3,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 5000,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Marcin",
+    "Nazwisko": "Tomaszewski",
+    "Stanowisko": 4,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 4000,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Aureliusz",
+    "Nazwisko": "Kowalczyk",
+    "Stanowisko": 4,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 4000,
+    "DniPrzepracowane": 20,
+    "DniNaZwolnieniu": 0
+  },
+  {
+    "Imie": "Alojzy",
+    "Nazwisko": "Pietrzak",
+    "Stanowisko": 4,
+    "StawkaGodzinowa": 0,
+    "StawkaStala": 4000,
+    "DniPrzepracowane": 19,
+    "DniNaZwolnieniu": 0
+  }
+
+]

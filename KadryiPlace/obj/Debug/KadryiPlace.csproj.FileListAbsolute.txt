@@ -1,0 +1,9 @@
+C:\SAN1\KadryiPlaceMS\KadryiPlace\obj\Debug\KadryiPlace.csproj.CoreCompileInputs.cache
+C:\SAN1\KadryiPlaceMS\KadryiPlace\bin\Debug\KadryiPlace.exe.config
+C:\SAN1\KadryiPlaceMS\KadryiPlace\bin\Debug\KadryiPlace.exe
+C:\SAN1\KadryiPlaceMS\KadryiPlace\bin\Debug\KadryiPlace.pdb
+C:\SAN1\KadryiPlaceMS\KadryiPlace\bin\Debug\Newtonsoft.Json.dll
+C:\SAN1\KadryiPlaceMS\KadryiPlace\bin\Debug\Newtonsoft.Json.xml
+C:\SAN1\KadryiPlaceMS\KadryiPlace\obj\Debug\KadryiPlace.csproj.CopyComplete
+C:\SAN1\KadryiPlaceMS\KadryiPlace\obj\Debug\KadryiPlace.exe
+C:\SAN1\KadryiPlaceMS\KadryiPlace\obj\Debug\KadryiPlace.pdb
